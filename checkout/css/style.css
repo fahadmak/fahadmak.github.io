@@ -1,0 +1,36 @@
+input.input-box {
+    height: 30px;
+    width: 246px;
+    margin: 5px;
+}
+
+#checkout-form {
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    padding: 13px;
+    border: 1px solid red;
+}
+
+.line {
+    width: 363px;
+}
+
+.checkout-btn {
+    padding: 8px;
+    width: 142px;
+    margin: 20px;
+    color: white;
+    background: red;
+}
+
+#payment-radio {
+    margin-bottom: 18px;
+}
+
+.valid-icons {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    opacity: 0.5;
+}
